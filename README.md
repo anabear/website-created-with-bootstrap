@@ -122,3 +122,4 @@
 
 ### Do you want to know more?
 * [Check out EXTRA.md](https://github.com/tonkec/learning_resources/blob/master/EXTRA.md)
+* [More resources](https://github.com/tonkec/learning_resources/blob/master/README.md)
